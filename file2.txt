@@ -1,1 +1,2 @@
 Goodbye!
+Critical bug fixed
