@@ -1,1 +1,2 @@
 Hello guys! (from user2)
+Some new line
